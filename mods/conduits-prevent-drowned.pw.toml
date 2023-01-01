@@ -1,0 +1,13 @@
+name = "Conduits Prevent Drowned"
+filename = "conduitspreventdrowned-fabric_1.19.2-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kpKchl4x/versions/AxYRtdj2/conduitspreventdrowned-fabric_1.19.2-2.0.jar"
+hash-format = "sha1"
+hash = "224d55482d2d17886e43fefb20bc5b09b35d1d69"
+
+[update]
+[update.modrinth]
+mod-id = "kpKchl4x"
+version = "AxYRtdj2"
