@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "9c12a766f4ad28df01a68572457c26fdf399aeec21d9694c4462edd552edc5fd"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
@@ -32,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "1b18e2565ea88bb3c3abe6a45f999f1bebfe37521a7b0ef66823da79f05ba955"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
@@ -47,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
+hash = "68d606ae34815023ff4a7d3f76dd6bf08d0f47fa34045a8226a9a1bbc6f0de87"
 metafile = true
 
 [[files]]
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
+hash = "7ace2557d34d50673bbc769114a9f84162ef793dfc8ba06eb6fee075aed5059e"
 metafile = true
 
 [[files]]
@@ -107,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
 metafile = true
 
 [[files]]
@@ -267,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "50a8504105877ca2cb2e8db64f4a50c062cb8abaf6881d665ad4eccc109680fd"
+hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
