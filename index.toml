@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "37701f581414b4d172d23a70ae169e43ff3416d905c403e0e2c88ebf2dbcbbc8"
+hash = "5e1ba17784d0f885979dd75a3da8d829edbd723af940b158750207b03ac3da52"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
