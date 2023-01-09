@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7ace2557d34d50673bbc769114a9f84162ef793dfc8ba06eb6fee075aed5059e"
+hash = "37701f581414b4d172d23a70ae169e43ff3416d905c403e0e2c88ebf2dbcbbc8"
 metafile = true
 
 [[files]]
@@ -97,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "4ff24faa444f234e880e563eea284e6bf910d84ce501d08cde706e20490617e0"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
 metafile = true
 
 [[files]]
