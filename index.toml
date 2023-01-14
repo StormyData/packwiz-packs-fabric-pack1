@@ -76,12 +76,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5e1ba17784d0f885979dd75a3da8d829edbd723af940b158750207b03ac3da52"
+hash = "ca774309a060de1880bb4998abdf61c9aed1f1e6dfeb0410ee43e9c485795b16"
 metafile = true
 
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
-hash = "127951df726d724de421e631b03cc8853da6f1d750968c97a38ba5bc33ff26f1"
+hash = "35f681c21ee56439a0a185cca771d58b3999cc049e635db801e2eb25ae8114cc"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "4ff24faa444f234e880e563eea284e6bf910d84ce501d08cde706e20490617e0"
+hash = "63ce0cc4936896cb52cd121141bd5df02b2123c29f91f43d4b4e04c954c17450"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
-hash = "35ed53204c9d816bd3ed7d920d999bb54f5568353514d897158eee47b194abb4"
+hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
 metafile = true
 
 [[files]]
