@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ca774309a060de1880bb4998abdf61c9aed1f1e6dfeb0410ee43e9c485795b16"
+hash = "f8ff97af1f3f108d4d976603b19612c973b8b0f808ab7b93956e62315b2e2a3c"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "63ce0cc4936896cb52cd121141bd5df02b2123c29f91f43d4b4e04c954c17450"
+hash = "4c2c6ff133ee87566516724cd49e5db8325e70123ac432a264fbd2fb76fc78df"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
-hash = "75dd02bfc5ea7b6ea65fd502db12d0161677b992be76f8c43527929d15ee91e4"
+hash = "e0f38d3e7790683d7f92a64e8d4627a551591d07bc924df9abe4ec0a638d19f4"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.pw.toml"
-hash = "4e4b125f735d8a1890413685745723223018936ae5268aa75e424fa79904c1ca"
+hash = "f56efa2d4c1924be62276b7b4e80d6799f12e91e4c0e331c184990cbe7145735"
 metafile = true
 
 [[files]]
@@ -281,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "ac0f6ee9dfa3fc79f4608651bd603ea6c181725b71b4c9f26fea9afeead421ab"
+hash = "39171ee75f15caf575ea1bedd587004c1a866567c7195cce540a0c01d62a3085"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
+hash = "accb90f4206f72fb32cd56c55eee18829033bf3972eeb90575e2aaf61979c6e1"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "987ea7a5a4285eea268c0b3ff8c65ab8bd0d20ddf336cc7184e41eb428b4ca80"
+hash = "00baced6c5a815dd8c3c8c5f69ab1abd9b91b88669732c0604d1faa330b944ca"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
