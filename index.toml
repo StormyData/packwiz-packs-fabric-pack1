@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
+hash = "744abba2566fd402bf2eeda7ad6e6b8921deda07f691b58718da2b9761c78cb4"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "4bf105fad2ec897770b89bbabb1c596cfb293e64dd1f51ece6d678814146ac45"
+hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
 metafile = true
 
 [[files]]
@@ -276,17 +276,17 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
+hash = "3a8258bea2381d1a03942b3cc88dd964c3bc6fb95b6c48898474ba29875ab0c0"
 metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "39171ee75f15caf575ea1bedd587004c1a866567c7195cce540a0c01d62a3085"
+hash = "630f0363dfd1f116496a6dfd1c6d18c4b234ffb198d9ee35c6c6c3b7e8730df4"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "accb90f4206f72fb32cd56c55eee18829033bf3972eeb90575e2aaf61979c6e1"
+hash = "442aa2f4615ccf6a2a307d9f45a15c9789a29fa0848ca0c5350a93e941a770e2"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5031396a7cf279acf8b4c14183a1d8dbbfc287d3e82b3c6926544a8b4cd43c0c"
+hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
 metafile = true
 
 [[files]]
