@@ -5,6 +5,10 @@ file = "config/fallingtree.json"
 hash = "9c12a766f4ad28df01a68572457c26fdf399aeec21d9694c4462edd552edc5fd"
 
 [[files]]
+file = "config/yttr.css"
+hash = "eb4753421ed9b25af7bd38111f7ea28d9572324ef57593e9e6a3512fd1902af2"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
