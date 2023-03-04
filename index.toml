@@ -30,12 +30,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "744abba2566fd402bf2eeda7ad6e6b8921deda07f691b58718da2b9761c78cb4"
+hash = "16147c3be6936ca0f7a10d9ed4d5f67adfdfe40c4bbae04d948d05ab378d4d07"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "13bac68b4372e66fc82e33809ba085c2cd9bea09b6a4a3619586c73767d8b86e"
+hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "f616d10c349c0ffc7fdb2d1b0c20d9509744edda22e4c0f9df63694ef191d2f8"
+hash = "f6f1ea175b909b5794bbb820e132ead74615f9beddc87f47ce160fd8e823cd0b"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
+hash = "53ba03514c34cf2540c35722a0405ffea1dca1f35eb4d91e8e016d89267eb2fa"
 metafile = true
 
 [[files]]
