@@ -124,6 +124,11 @@ hash = "98334106775c53b654a78ad335b9d28110fb49bbe215333cb190a7aa505416d8"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
 metafile = true
@@ -171,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
