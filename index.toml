@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d2126311f743248b186c348a4da5f1599db7695eee2ec6f2d9a3641de3f643a5"
+hash = "af67ba11d4f932858ebce14270de4b38483a419d0153158da7e2bf20ac0fe358"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
+hash = "2408ac7f912b3113470f1ab9cfdca237f7a15e0dd3a1a570e30b874fd052ad5b"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "4318faa8ea9bbf1db0770eafb9abf582cbebf44770e50023554e1637689307c3"
+hash = "4ebba23c747fd5e735801135f5e385431496da55b7d90089b4fbee162cf3f03c"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit.pw.toml"
-hash = "d74f7b0d2418835913a13b90b1be0e27d624056bc05a3fa886d1e6fad1619743"
+hash = "8705582358b2ca03b2e9505a6edb99a52103f06759179847bde78141b449e3c0"
 metafile = true
 
 [[files]]
