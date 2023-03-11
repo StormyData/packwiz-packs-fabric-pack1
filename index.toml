@@ -294,6 +294,11 @@ hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
 metafile = true
 
 [[files]]
+file = "mods/quickshulker.pw.toml"
+hash = "c9d4609b3ef719d5830858cf155680c65d7d2ec472b5430b1964a54807646d21"
+metafile = true
+
+[[files]]
 file = "mods/reaper.pw.toml"
 hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
 metafile = true
