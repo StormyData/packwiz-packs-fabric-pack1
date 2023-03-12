@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2408ac7f912b3113470f1ab9cfdca237f7a15e0dd3a1a570e30b874fd052ad5b"
+hash = "e4e987016c1f2dd99d2c756e60786a49e48e324a0e98b44e455d4c38f8028a64"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "4ebba23c747fd5e735801135f5e385431496da55b7d90089b4fbee162cf3f03c"
+hash = "b7197d79edbf0794e64f4986a8290b0df7ef04993b24ed13a08bc7693a413adf"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
+hash = "3b4867648534487476bf69127d805d63b7f3be1455ecc20093a80b9bb8510f7d"
 metafile = true
 
 [[files]]
@@ -254,6 +254,11 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/new-infinity-fix.pw.toml"
+hash = "c93492d3e750751d4a25630b2f26b74a83b548bb297ff7232c298d491eb42343"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -310,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b1c66b8935441aa82483345180fe6ac215f891dfca5e144352a0fd9a50e74f35"
+hash = "79bc2d7e581506568ba61701f5d36dbbc19f415b4a59c5172b007e22032b6710"
 metafile = true
 
 [[files]]
@@ -340,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "f6f1ea175b909b5794bbb820e132ead74615f9beddc87f47ce160fd8e823cd0b"
+hash = "d0f5aab9aeb7cc0d24ad75adfc0e256b2598df1d3107bad7aaf70bde258820ec"
 metafile = true
 
 [[files]]
