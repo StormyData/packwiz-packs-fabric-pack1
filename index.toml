@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "af67ba11d4f932858ebce14270de4b38483a419d0153158da7e2bf20ac0fe358"
+hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "63490dae62a142364b2ca8db532b02d847340120fdfabd414f38637c48c4edf6"
+hash = "c3c7d0a3540985c61265ce352e48a32c0a8aadf975abaf7d74d0aed4e38a8457"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "154c52e9ef7a0dcc25f3075cc5093c2eaf3604cb85bba25e4ca46a2b3e621d7e"
+hash = "17cf4ec0361274deb1c4cff5106ee91c5352dcb528d4432094de1799e61220d4"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "d0f5aab9aeb7cc0d24ad75adfc0e256b2598df1d3107bad7aaf70bde258820ec"
+hash = "4c0ec5e24a92ccd025124f9a8226c3243adde0296327806bb9d01a9d3815b158"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "53ba03514c34cf2540c35722a0405ffea1dca1f35eb4d91e8e016d89267eb2fa"
+hash = "947e063412b5c0dde45af0f5f4fc7ac17bd3615b06d44a5578fa06d92f8343e0"
 metafile = true
 
 [[files]]
