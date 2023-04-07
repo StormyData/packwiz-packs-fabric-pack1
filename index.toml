@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
+hash = "7cd1d6f65dfe64cdb07180872ca629e6e7a583437cc1a410baa083df763974fc"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c3c7d0a3540985c61265ce352e48a32c0a8aadf975abaf7d74d0aed4e38a8457"
+hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "ac6a4cf7efb81f4d8976caec374b680f69f79740cc93b5331abd35418f43299f"
+hash = "ededf743183faa88d9d1e20aee5643a7b1c235d9ad673b1049ce7d597b2952ac"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "79bc2d7e581506568ba61701f5d36dbbc19f415b4a59c5172b007e22032b6710"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "947e063412b5c0dde45af0f5f4fc7ac17bd3615b06d44a5578fa06d92f8343e0"
+hash = "a79026bfd754ab1c9203a75a12c293f8482560e5683ab069e867b496184cee45"
 metafile = true
 
 [[files]]
